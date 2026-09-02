@@ -39,9 +39,9 @@ I am a passionate **Flutter & Dart Application Developer** dedicated to building
 
 ##  📫 Connect with Me
 
-- 💼 **LinkedIn:** [[Antonious Mamdouh](https://linkedin.com/in/](https://www.linkedin.com/in/antonious/))
+- 💼 **LinkedIn:** [[Antonious Mamdouh](https://www.linkedin.com/in/antonious/)
 - 📧 **Email:** am.antonious@gmail.com
-- 🌐 **Portfolio / GitHub:** [github.com/YOUR_GITHUB_USERNAME]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/AntoniousMamdouh)
+- 🌐 **Portfolio / GitHub:** (https://github.com/AntoniousMamdouh)
 
 ---
 <p align="center"><i>"Continuous learning is the minimum requirement for success in any field."</i></p>
